@@ -4,13 +4,14 @@
 
 # Blood Panels 
 
-* BASIC METABOLIC PANEL (BMP)
-* COMPLETE BLOOD COUNT (CBC) WITH DIFFERENTIAL - Tests Red and White Blood Cells
+* Basic Health & Wellness Screening Panel: CBC, CMP, Lipids (cholesterol), THS (thyroid stimulating hormone), C-reactive, a urinalysis and Vitamin D
+* BASIC METABOLIC PANEL (BMP) - (Also known as Complete Metabolic Panel 14 (CMP 14)). One of the most common tests used to assess and monitor overall health status
+* COMPLETE BLOOD COUNT (CBC) WITH DIFFERENTIAL - Tests Red and White Blood Cells. A Complete Blood Count (CBC) is one of the most common tests used to assess and monitor overall health status.
 * LIPID PANEL - CARDIOVASCULAR RISK
 * COMPLETE MALE PANEL
 * COMPLETE FEMALE PANEL
 
-# Blood Tests
+# Specific Blood Tests
 
 * A/G Ratio
 * AA:EPA Ratio
@@ -130,7 +131,7 @@
 * Phosphorous
 * Phosphorus, Serum
 * Platelet Count - Part of CBC
-* Potassium
+* Potassium (K)
 * Pre-Albumin
 * Progesterone - SEX HORMONES
 * Prostate Specific Ag, Serum
@@ -187,6 +188,13 @@
 * White Blood Cell Count
 * Z score
 * Zinc
+
+# Misc Blood Tests
+
+* ABO Grouping (Blood Typing) - Test used for classifying blood types.
+* Antinuclear antibody (ANA) - General test for autoimmune disease
+* Aluminum (Blood) - This blood test measures Aluminum levels. There are concerns that aluminum exposure from either diet or the environment may be related to Alzheimer's disease.
+* Arsenic (Blood) - This blood test is used to measure Arsenic levels. Arsenic toxicity affects the blood, kidneys, skin, digestive tract and central nervous system. 
 
 # Blood Testing Companies
 
