@@ -4,15 +4,17 @@
 
 # Blood Panels 
 
-* COMPLETE METABOLIC PANEL
-* COMPLETE BLOOD COUNT WITH DIFFERENTIAL
+* BASIC METABOLIC PANEL (BMP)
+* COMPLETE BLOOD COUNT (CBC) WITH DIFFERENTIAL - Tests Red and White Blood Cells
 * LIPID PANEL - CARDIOVASCULAR RISK
+* COMPLETE MALE PANEL
+* COMPLETE FEMALE PANEL
 
 # Blood Tests
 
 * A/G Ratio
 * AA:EPA Ratio
-* Alanine Aminotransferase
+* Alanine Aminotransferase (AST) - Part of the Liver Function Test
 * Albumin
 * Albumin/Globulin Ratio
 * Alkaline Phosphatase, S
@@ -30,11 +32,11 @@
 * Bilirubin (total)
 * Bilirubin, Direct
 * Bilirubin, Indirect
-* BUN
+* Blood Urea Nitrogen (BUN) - Part of the Kidney Function Test
 * BUN:Creatinine Ratio
 * BUN/Creatinine Ratio
-* C-Reactive Protein - INFLAMMATION
-* Calcium
+* C-Reactive Protein (CRP) - INFLAMMATION - A measure of inflammation
+* Calcium (Ca) - Blood Calcium Levels
 * Calcium, Serum
 * CARDIO IQ LIPOPROTEIN FRACTIONATION, ION MOBILITY - CARDIOVASCULAR RISK
 * Chloride
@@ -46,8 +48,8 @@
 * CO2
 * Copper
 * Cortisol - SEX HORMONES
-* Creatine Kinase
-* Creatinine
+* Creatine Kinase (CK) (CPK same as Creatine phosphokinase) - A Measure of Muscle Damage
+* Creatinine (Cr) - Part of the Kidney Function Test
 * Creatinine, Serum
 * D Bilirubin
 * DHA (Docosahexaenoic acid)
@@ -73,15 +75,14 @@
 * Glucose, Serum
 * Gran #
 * Grans %
-* HCT (Hematocrit)
-* HDL Cholesterol
+* HCT (Hematocrit) - Part of the CBC Blood Test
+* HDL Cholesterol - High Density Lipoproteins - The 'Good' part of the cholesterol test
 * Hematocrit
-* Hemoglobin
+* Hemoglobin (Hgb) - Part of the CBC Blood Test
 * Hemoglobin A1c - BLOOD SUGAR MANAGEMENT
-* HGB (Hemoglobin)
 * High Sensitivity C-Reactive Protein
 * High-density Lipoprotein (HDL)
-* Homocysteine - Inflammation
+* Homocysteine (HCY) - Inflammation and A Sign of B12 Deficiency
 * I Bilirubin
 * IGF-1 - SEX HORMONES
 * Immature Grans (Abs)
@@ -94,7 +95,7 @@
 * Iron Saturation
 * Iron, Serum
 * LDH (lactate dehydrogenase)
-* LDL
+* LDL Low Density Lipoproteins - The 'Bad' part of the cholesterol test
 * LDL Cholesterol Calc
 * Lead (Blood Lead)
 * Lipid Particle Numbers
@@ -105,12 +106,11 @@
 * Luteinizing Hormone (LH) - SEX HORMONES
 * Lymphocyte Count (absolute)
 * Lymphs (Absolute)
-* Magnesium
+* Magnesium (Mg) 
 * MCH (mean corpsular Hgb), average amount of O2 carrying Hgb
 * MCHC
 * MCHC (mean corp. Hgb concentn
-* MCV
-* MCV (mean corpsular volume)
+* MCV (mean corpsular volume) - Part of the CBC Blood Test
 * Mercury (Blood Mercury)
 * Methylmalonic
 * Mono #
@@ -129,14 +129,14 @@
 * Osteocalcin (bone formation)
 * Phosphorous
 * Phosphorus, Serum
-* Platelet Count
+* Platelet Count - Part of CBC
 * Potassium
 * Pre-Albumin
 * Progesterone - SEX HORMONES
 * Prostate Specific Ag, Serum
 * Protein, Total, Serum
-* PSA Prostate Specific Ag, Serum
-* PT(prothrombin time)
+* PSA Prostate Specific Ag, Serum - A test for Prostate Cancer
+* PT(prothrombin time) - A test of blood clotting
 * PTH
 * PTT (partial thromboplastin)
 * RBC (red blood cell)
@@ -148,11 +148,11 @@
 * Sex-Hormone Binding Globulin
 * SGPT
 * SHBG- SEX HORMONES
-* Sodium
+* Sodium (Na)
 * T Bilirubin
 * T-Uptake
 * T. Chol/HDL Ratio
-* TSH, TOTAL T4, T3 UPTAKE, FTI - THYROID FUNCTION
+* TSH, TOTAL T4, T3 UPTAKE, FTI - THYROID FUNCTION - The main part of a Thyroid Test
 * FREE T4 - THYROID FUNCTION
 * TOTAL T3 - THYROID FUNCTION
 * FREE T3 - THYROID FUNCTION
@@ -170,14 +170,14 @@
 * Total Iron Binding Capacity
 * Total Protein
 * Transferrin Saturation
-* Triglycerides
+* Triglycerides (Trig) - Part of a cholesterol test
 * Triiodothyronine (T3, total)
 * Triiodothyronine (T3) Free
 * Thyroid-Stimulating Hormone
 * Uric Acid, Serum
 * Vitamin A
 * Vitamin B1(thiamine)
-* Vitamin B12 - NUTRIENT DEFICIENCY
+* Vitamin B12 (Cobalamin CBL) - NUTRIENT DEFICIENCY
 * Vitamin B6
 * Vitamin D, 25-Hydroxy - NUTRIENT DEFICIENCY
 * Vitamin E, alpha
