@@ -24,6 +24,15 @@
       ],
       "default": "none"
     },
+    "common": {
+      "type": "string",
+      "description": "Common Blood Test",
+      "enum": [
+        "Yes",
+        "No"
+      ],
+      "default": "No"
+    },
     "one_liner": {
       "type": "string",
       "description": "One-Liner Description",
