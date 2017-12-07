@@ -1,0 +1,58 @@
+{
+  "title": "Blood_Test",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Full Blood Test Name",
+      "minLength": 3,
+      "default": ""
+    },
+    "code": {
+      "type": "string",
+      "description": "Blood Test Code or Abbreviation",
+      "minLength": 3,
+      "default": ""
+    },
+    "group": {
+      "type": "string",
+      "description": "Grouping or Test where specific Blood Test or Biomarker is included",
+      "enum": [
+      	"none",
+        "CBC",
+        "Lipids"
+      ],
+      "default": "none"
+    },
+    "one_liner": {
+      "type": "string",
+      "description": "One-Liner Description",
+      "minLength": 3,
+      "default": ""
+    },
+    "description": {
+      "type": "string",
+      "description": "Full Description",
+      "minLength": 3,
+      "default": ""
+    },
+     "health_category": {
+      "type": "array",
+      "description": "TODO",
+      "items": {
+      	"type": "string",
+	      "enum": [
+	        "Cardiovascular Health",
+	        "Brain and Body",
+          "Vitamins and Minerals",
+	        "Blood Health",
+	        "Bone and Muscle Health",
+	        "Metabolic Health",
+	        "Lipids / Heart Health",
+	        "Liver Health",
+	        "Immunity"
+	      ]
+	    }
+    }
+  }
+}
