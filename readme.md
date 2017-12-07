@@ -1,17 +1,17 @@
-# Awesome Blood Tests [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Blood Biomarkers and Blood Tests [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of blood tests, blood testing companies and blood tracking technologies, tools and resources
+> A curated list of blood biomarkers, blood tests, blood testing companies and blood tracking technologies, applications, tools and resources. 
 
-# Blood Panels 
+# Common Blood Testing Panels 
 
 * Basic Health & Wellness Screening Panel: CBC, CMP, Lipids (cholesterol), THS (thyroid stimulating hormone), C-reactive, a urinalysis and Vitamin D
-* BASIC METABOLIC PANEL (BMP) - (Also known as Complete Metabolic Panel 14 (CMP 14)). One of the most common tests used to assess and monitor overall health status
-* COMPLETE BLOOD COUNT (CBC) WITH DIFFERENTIAL - Tests Red and White Blood Cells. A Complete Blood Count (CBC) is one of the most common tests used to assess and monitor overall health status.
-* LIPID PANEL - CARDIOVASCULAR RISK
-* COMPLETE MALE PANEL
-* COMPLETE FEMALE PANEL
+* Basic Metabolic Panel (BMP) - (Also known as Complete Metabolic Panel 14 (CMP 14)). One of the most common tests used to assess and monitor overall health status
+* Complete Blood Count (CBC) with Differential - Tests Red and White Blood Cells. A Complete Blood Count (CBC) is one of the most common tests used to assess and monitor overall health status.
+* Lipid Panel - Used to access Cardiovascular Risk
+* Complete Male Blood Panel
+* Complete Male Blood Panel
 
-# Specific Blood Tests
+# Specific Biomarkers and Blood Tests
 
 * A/G Ratio
 * AA:EPA Ratio
