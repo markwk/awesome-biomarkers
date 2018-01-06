@@ -16,7 +16,7 @@ Ensure your pull request adheres to the following guidelines:
 - New categories, or improvements to the existing categorization are welcome.
 - Link to the GitHub repo, not npmjs.com.
 - Keep descriptions short and simple, but descriptive.
-- Don't mention `Blood Test` or `Blood Testing` in the description as it's implied.
+- Don't mention `Biomarker`, `Blood Test` or `Blood Testing` in the description as it's implied.
 - Start the description with a capital and end with a full stop/period.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.

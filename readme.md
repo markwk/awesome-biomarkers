@@ -1,6 +1,6 @@
-# Awesome Blood Biomarkers and Blood Tests [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Biomarkers, Blood Tests and Health Indicators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of blood biomarkers, blood tests, blood testing companies and blood tracking technologies, applications, tools and resources. 
+> A curated list of biomarkers, blood tests, health indicators, blood testing companies and health tracking and analytics technologies, applications, tools and resources. 
 
 # Common Blood Testing Panels 
 
