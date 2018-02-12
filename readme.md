@@ -36,34 +36,46 @@ At its core, this project has two objectives: First, to be an awesome list about
 #### Comprehensive Metabolic Panel (CMP) Biomarkers: 
 
 1. Glucose
-2. BUN
+2. Blood urea nitrogen (BUN)
 3. Creatinine
 4. Sodium
 5. Potassium
 6. Chloride
-7. CO2
+7. Carbon dioxide (CO2)
 8. Uric Acid
 9. Albumin
 10. Globulin
 11. Calcium
 12. Phosphorus
-13. Alkaline Phosphatase
-14. ALT
-15. AST
+13. Alkaline Phosphatase (ALP)
+14. Alanine amino transferase (ALT or SGPT)
+15. Aspartate amino transferase (AST or SGOT)
 16. LDH
 17. Total Bilirubin
 18. GGT
 19. Iron
-20. Ferritin
-21. TIBC
-22. Total Cholesterol
-23. Triglycerides
-24. LDL-C
-25. HDL-C
+20. TIBC
+21. Total Cholesterol
+22. Triglycerides
+23. LDL-C
+24. HDL-C
 
 #### Additional Common and Recommended Biomarkers:
 
-* TODO
+* C-Reactive Protein
+* Cortisol
+* DHEA-Sulfate
+* Estimated Glomerular Filtration Rate (eGFR)
+* Estradiol
+* Ferritin
+* Folate
+* Hemoglobin A1c
+* Homocysteine
+* Progesterone
+* Prostate Specific Ag (PSA)
+* Testosterone
+* Thyroid-Stimulating Hormone
+* Vitamin D, 25-Hydroxy
 
 #### Misc Blood Tests
 
@@ -79,7 +91,9 @@ At its core, this project has two objectives: First, to be an awesome list about
 
 ## Blood Tracking Technologies and Tools
 
-* TODO
+* Ferritin
+* Cortisol - SEX HORMONES
+* Creatine Kinase (CK) (CPK same as Creatine phosphokinase) - A Measure of Muscle Damage
 
 # BiomarkerDB: An Open Source Database on Biomarkers and Health Metrics
 
