@@ -1,19 +1,18 @@
 # Awesome Biomarkers, Blood Tests and Health Indicators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This project has two objectives. First, to be an awesome list about biomarkers, blood testing, blood tracking and quantified metrics about health and welness. Second, to be an open source and community database on and about biomarkers. 
+Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health! 
+
+At its core, this project has two objectives: First, to be an awesome list about biomarkers, blood testing, blood tracking and quantified metrics about health and welness. That way you can learn all the basic info about blood tests and biomarker track. Second, to be an open source and community database on and about biomarkers. That way we can build great technologies for indiviudals, companies and communities hoping to use biomarkers and health metrics to power their solutions.  
 
 # Awesome List on Biomarkers
 
 > A curated list of biomarkers, blood tests, health indicators, blood testing companies and health tracking and analytics technologies, applications, tools and resources. 
 
-## Common Blood Testing Panels 
+## Common Blood Test Panels 
 
-* Basic Health & Wellness Screening Panel: CBC, CMP, Lipids (cholesterol), THS (thyroid stimulating hormone), C-reactive, a urinalysis and Vitamin D
-* Basic Metabolic Panel (BMP) - (Also known as Complete Metabolic Panel 14 (CMP 14)). One of the most common tests used to assess and monitor overall health status
-* Complete Blood Count (CBC) with Differential - Tests Red and White Blood Cells. A Complete Blood Count (CBC) is one of the most common tests used to assess and monitor overall health status.
-* Lipid Panel - Used to access Cardiovascular Risk
-* Complete Male Blood Panel
-* Complete Male Blood Panel
+* **Complete Blood Count (CBC) with Differential** - Measures the numbers and percentages of various blood cell types in a blood sample. CBC is one of the most common tests used to assess and monitor overall health status.
+* **Basic Metabolic Panel (BMP)** - Tests electrolyte levels, kidney function, and blood sugar levels. One of the most common tests used by health care providers. Consists of seven or eight biochemical tests. Used to assess and monitor overall health status and response to medication and medical therapies. 
+* **Comprehensive Metabolic Panel (CMP)** - Tests kidney function, liver function, diabetic and parathyroid status, and electrolyte and fluid balance. The CMP includes a panel of 14 blood tests and is an expanded version of the basic metabolic panel (BMP), which includes liver tests. Also know as Chemical Screen or Complete Metabolic Panel 14 (CMP 14). 
 
 ## Specific Biomarkers and Blood Tests
 
