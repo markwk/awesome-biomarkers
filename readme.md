@@ -91,9 +91,7 @@ At its core, this project has two objectives: First, to be an awesome list about
 
 ## Blood Tracking Technologies and Tools
 
-* Ferritin
-* Cortisol - SEX HORMONES
-* Creatine Kinase (CK) (CPK same as Creatine phosphokinase) - A Measure of Muscle Damage
+* **TODO**
 
 # BiomarkerDB: An Open Source Database on Biomarkers and Health Metrics
 
