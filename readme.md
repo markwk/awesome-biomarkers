@@ -16,189 +16,61 @@ At its core, this project has two objectives: First, to be an awesome list about
 
 ## Specific Biomarkers and Blood Tests
 
-* A/G Ratio
-* AA:EPA Ratio
-* Alanine Aminotransferase (AST) - Part of the Liver Function Test
-* Albumin
-* Albumin/Globulin Ratio
-* Alkaline Phosphatase, S
-* ALP
-* ALP (Alkaline Phosphatase)
-* ALT (SGPT)
-* ALT/SGPT
-* Anion Gap
-* APOLIPOPROTEIN A-1 (Apo A-1) - CARDIOVASCULAR RISK
-* APOLIPOPROTEIN B (Apo B) - CARDIOVASCULAR RISK
-* Arachidonic acid
-* Aspartate Aminotransferase
-* AST (SGOT)
-* Basophils (Absolute)
-* Bilirubin (total)
-* Bilirubin, Direct
-* Bilirubin, Indirect
-* Blood Urea Nitrogen (BUN) - Part of the Kidney Function Test
-* BUN:Creatinine Ratio
-* BUN/Creatinine Ratio
-* C-Reactive Protein (CRP) - INFLAMMATION - A measure of inflammation
-* Calcium (Ca) - Blood Calcium Levels
-* Calcium, Serum
-* CARDIO IQ LIPOPROTEIN FRACTIONATION, ION MOBILITY - CARDIOVASCULAR RISK
-* Chloride
-* Chloride, Serum
-* Chloride, Serum
-* Cholesterol
-* Cholesterol, Total
-* Cholesterol/HDL Ratio
-* CO2
-* Copper
-* Cortisol - SEX HORMONES
-* Creatine Kinase (CK) (CPK same as Creatine phosphokinase) - A Measure of Muscle Damage
-* Creatinine (Cr) - Part of the Kidney Function Test
-* Creatinine, Serum
-* D Bilirubin
-* DHA (Docosahexaenoic acid)
-* Dehydroepiandrosterone Sulfate (DHEA-Sulfate or DHEA-S)
-* eGFR
-* Eosinophil (absolute)
-* EPA (Eicosapentaenoic acid)
-* Estimated CHD Risk
-* Estradiol - SEX HORMONES
-* Ferritin - NUTRIENT DEFICIENCY
-* Fibrinogen - Inflammation
-* Folate - NUTRIENT DEFICIENCY
-* Follicle Stimulating Hormone (FSH) - SEX HORMONES
-* Free Fatty Acids - CARDIOVASCULAR RISK
-* Free Testosterone (Direct) - SEX HORMONES
-* Free Thyroxine Index
-* Gamma-glutamyl Transpeptidase
-* GFR (glomerular filtratn rate)
-* GGT
-* Globulin
-* Globulin, Total
-* Glucose - BLOOD SUGAR MANAGEMENT
-* Glucose, Serum
-* Gran #
-* Grans %
-* HCT (Hematocrit) - Part of the CBC Blood Test
-* HDL Cholesterol - High Density Lipoproteins - The 'Good' part of the cholesterol test
-* Hematocrit
-* Hemoglobin (Hgb) - Part of the CBC Blood Test
-* Hemoglobin A1c - BLOOD SUGAR MANAGEMENT
-* High Sensitivity C-Reactive Protein
-* High-density Lipoprotein (HDL)
-* Homocysteine (HCY) - Inflammation and A Sign of B12 Deficiency
-* I Bilirubin
-* IGF-1 - SEX HORMONES
-* Immature Grans (Abs)
-* Immature Granulocytes
-* INR
-* Insulin - BLOOD SUGAR MANAGEMENT
-* Insulin-Like Growth Factor I
-* Iron - NUTRIENT DEFICIENCY
-* Ion Mobility
-* Iron Saturation
-* Iron, Serum
-* LDH (lactate dehydrogenase)
-* LDL Low Density Lipoproteins - The 'Bad' part of the cholesterol test
-* LDL Cholesterol Calc
-* Lead (Blood Lead)
-* Lipid Particle Numbers
-* Lipid Particle Sizes
-* LIPOPROTEIN (A) - CARDIOVASCULAR RISK
-* Low-density Lipoprotein (LDL)
-* Lp(a)
-* Luteinizing Hormone (LH) - SEX HORMONES
-* Lymphocyte Count (absolute)
-* Lymphs (Absolute)
-* Magnesium (Mg) 
-* MCH (mean corpsular Hgb), average amount of O2 carrying Hgb
-* MCHC
-* MCHC (mean corp. Hgb concentn
-* MCV (mean corpsular volume) - Part of the CBC Blood Test
-* Mercury (Blood Mercury)
-* Methylmalonic
-* Mono #
-* Monocytes (absolute)
-* Monos%
-* MPV (mean platelet volume)
-* Neutrophil Count (ANC)
-* Neutrophils
-* Neutrophils (Absolute)
-* NRBC
-* Omegas - CARDIOVASCULAR RISK
-* Omega 3 Index - CARDIOVASCULAR RISK
-* Omega Risk - CARDIOVASCULAR RISK
-* Omega-6:Omega-3 Ratio - CARDIOVASCULAR RISK
-* Osmolality, calc
-* Osteocalcin (bone formation)
-* Phosphorous
-* Phosphorus, Serum
-* Platelet Count - Part of CBC
-* Potassium (K)
-* Pre-Albumin
-* Progesterone - SEX HORMONES
-* Prostate Specific Ag, Serum
-* Protein, Total, Serum
-* PSA Prostate Specific Ag, Serum - A test for Prostate Cancer
-* PT(prothrombin time) - A test of blood clotting
-* PTH
-* PTT (partial thromboplastin)
-* RBC (red blood cell)
-* RBC Magnesium - NUTRIENT DEFICIENCY
-* RDW (Red Cell Distribution Width)
-* Reverse T3
-* Saturation
-* Selenium
-* Sex-Hormone Binding Globulin
-* SGPT
-* SHBG- SEX HORMONES
-* Sodium (Na)
-* T Bilirubin
-* T-Uptake
-* T. Chol/HDL Ratio
-* TSH, TOTAL T4, T3 UPTAKE, FTI - THYROID FUNCTION - The main part of a Thyroid Test
-* FREE T4 - THYROID FUNCTION
-* TOTAL T3 - THYROID FUNCTION
-* FREE T3 - THYROID FUNCTION
-* REVERSE T3 - THYROID FUNCTION
-* THYROID PEROXIDASE - THYROID FUNCTION
-* Testosterone - SEX HORMONES
-* Testosterone (free) SEX HORMONES
-* Testosterone (total) - SEX HORMONES
-* Testosterone, Serum - SEX HORMONES
-* Thyroxine (T4, free direct)
-* Thyroxine (T4, total)
-* TIBC
-* Total Cholesterol
-* Total Iron
-* Total Iron Binding Capacity
-* Total Protein
-* Transferrin Saturation
-* Triglycerides (Trig) - Part of a cholesterol test
-* Triiodothyronine (T3, total)
-* Triiodothyronine (T3) Free
-* Thyroid-Stimulating Hormone
-* Uric Acid, Serum
-* Vitamin A
-* Vitamin B1(thiamine)
-* Vitamin B12 (Cobalamin CBL) - NUTRIENT DEFICIENCY
-* Vitamin B6
-* Vitamin D, 25-Hydroxy - NUTRIENT DEFICIENCY
-* Vitamin E, alpha
-* Vitamin E, beta
-* Vitamin K1
-* VLDL
-* White Blood Cell Count
-* Z score
-* Zinc
+#### Complete Blood Count (CBC) Biomarkers:
 
-## Misc Blood Tests
+1. RBC
+2. Hemoglobin
+3. Hematocrit
+4. MCV
+5. MCH
+6. MCHC
+7. Platelets
+8. MPV
+9. RDW
+10. Absolute Neutrophils
+11. Absolute Lymphocytes
+12. Absolute Monocytes
+13. Absolute Eosinophils
+14. Absolute Basophils
+
+#### Comprehensive Metabolic Panel (CMP) Biomarkers: 
+
+1. Glucose
+2. BUN
+3. Creatinine
+4. Sodium
+5. Potassium
+6. Chloride
+7. CO2
+8. Uric Acid
+9. Albumin
+10. Globulin
+11. Calcium
+12. Phosphorus
+13. Alkaline Phosphatase
+14. ALT
+15. AST
+16. LDH
+17. Total Bilirubin
+18. GGT
+19. Iron
+20. Ferritin
+21. TIBC
+22. Total Cholesterol
+23. Triglycerides
+24. LDL-C
+25. HDL-C
+
+#### Additional Common and Recommended Biomarkers:
+
+* TODO
+
+#### Misc Blood Tests
 
 * ABO Grouping (Blood Typing) - Test used for classifying blood types.
 * Antinuclear antibody (ANA) - General test for autoimmune disease
 * Aluminum (Blood) - This blood test measures Aluminum levels. There are concerns that aluminum exposure from either diet or the environment may be related to Alzheimer's disease.
 * Arsenic (Blood) - This blood test is used to measure Arsenic levels. Arsenic toxicity affects the blood, kidneys, skin, digestive tract and central nervous system. 
-
 ## Blood Testing Companies
 
 * Inside Tracker
