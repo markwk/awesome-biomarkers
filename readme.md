@@ -18,47 +18,47 @@ At its core, this project has two objectives: First, to be an awesome list about
 
 #### Complete Blood Count (CBC) Biomarkers:
 
-1. RBC
-2. Hemoglobin
-3. Hematocrit
-4. MCV
-5. MCH
-6. MCHC
-7. Platelets
-8. MPV
-9. RDW
-10. Absolute Neutrophils
-11. Absolute Lymphocytes
-12. Absolute Monocytes
-13. Absolute Eosinophils
-14. Absolute Basophils
+1. **RBC**: Red blood cell count (corpuscles). Red blood cells are made in the bone marrow and broken down in the spleen and liver. May be elevated due to dehydration, high testosterone. May be low due to nutrient deficiencies (iron, Vit B6, Vit B12, folate), kidney dysfunction, chronic inflammation, anemia, blood loss.
+2. **Hemoglobin**: Delivers oxygen throughout the blood. May be elevated due to dehydration, elevated testosterone, poor oxygen deliverability, thiamin deficiency, insulin resistance. May be deceased due to anemia, liver disease, hypothyroidism, exercise, arginine deficiency, protein deficiency, inflammation nutrient deficiencies (Vit E, magnesium, zinc, copper, selenium, Vit B6, Vit A).
+3. **Hematocrit**: Percentage of volume of blood composed of red blood cells. May be elevated due to dehydration, elevated testosterone, poor oxygen deliverability, thiamin deficiency, insulin resistance. May be deceased due to anemia, liver disease, hypothyroidism, exercise, arginine deficiency, protein deficiency, inflammation nutrient deficiencies (Vit E, magnesium, zinc, copper, selenium, Vit B6, Vit A).
+4. **MCV**: Mean Corpuscular Volume. An estimate of the average red blood cell size. May be elevated (“macrocytic”) due to nutrient deficiencies (Vit B12, folate, Vit C), alcohol consumption, thiamin deficiency. May be decreased (“microcytic”) due to iron deficiency, nutrient deficiencies (Vit B6, copper, zinc, Vit A, Vit C).
+5. **MCH**: Mean Corpuscular Hemoglobin. A measure of the average weight of hemoglobin per red blood cell. May be elevated (“macrocytic”) due to nutrient deficiencies (Vit B12, folate, Vit C), alcohol consumption, thiamin deficiency, and (falsely increased) by hyperlipidemia. May be decreased (“microcytic”) due to iron deficiency, nutrient deficiencies (Vit B6, copper, zinc, Vit A, Vit C).
+6. **MCHC**: Mean Corpuscular Hemoglobin Concentration. Measures the average concentration of hemoglobin in red blood cells. May be elevated (“macrocytic”) due to nutrient deficiencies (Vit B12, folate, Vit C), alcohol consumption, thiamin deficiency, and (falsely increased) by hyperlipidemia. May be decreased (“microcytic”) due to iron deficiency, nutrient deficiencies (Vit B6, copper, zinc, Vit A, Vit C).
+7. **Platelets**: Small, anucleated cell fragments in blood that are involved in clotting and important for vascular integrity. May be increased due to iron deficiency anemia, collagen diseases, hemolytic anemia, blood loss, stress, infection, inflammation. May be decreased due to alcoholism, liver dysfunction, viral/bacterial infections, pernicious anemia, bleeding.
+8. **MPV**: Mean Platelet Volume. Measures the average size of platelets and reflects their function. May be elevated due to increased platelet production, which is often caused by loss or destruction of existing platelets. Elevated MPV can be associated with vascular disease and mortality, some cancers, type 2 diabetes, and Hashimoto's thyroiditis. MPV may be decreased due to conditions associated with under-production of platelets such as aplastic anemia or cytotoxic drug therapy.
+9. **RDW**: Red blood cell distribution width. A measurement of the variation in red blood cell size. Typically increased due to nutrient deficiency-related anemias (iron, Vit A, copper, zinc, Vit B6).
+10. **Absolute Neutrophils**: The most abundant white blood cell type, neutralizes pathogens. May be elevated due to bacterial infection or inflammation. May be decreased due to nutrient deficiencies (copper, B12, folate), elevations in other white blood cells.
+11. **Absolute Lymphocytes**: White blood cell type including B-cells, T-cells, and Natural Killer Cells. May be elevated due to viral infections, Crohn’s and other autoimmune diseases, hypoadrenalism. May be decreased due to zinc deficiency, elevations in other white blood cells.
+12. **Absolute Monocytes**: White blood cells that leave the circulation to become macrophages. May be elevated due to inflammation, collagen disease (i.e. Rheumatoid Arthritis), ulcerative colitis, recovery after an infection or trauma.
+13. **Absolute Eosinophils**: Immune cells that become active in late stage inflammation. May be elevated due to allergies, asthma, parasitic infection, hypoadrenalism, skin diseases such as eczema, ulcerative colitis, Crohn’s, aspirin sensitivity. May be decreased due to elevated cortisol.
+14. **Absolute Basophils**: White blood cells associated with inflammation and hypersensitivities. May be elevated due to inflammation, allergies, hemolytic anemia, hypothyroidism.
 
 #### Comprehensive Metabolic Panel (CMP) Biomarkers: 
 
-1. Glucose
-2. Blood urea nitrogen (BUN)
-3. Creatinine
-4. Sodium
-5. Potassium
-6. Chloride
-7. Carbon dioxide (CO2)
-8. Uric Acid
-9. Albumin
-10. Globulin
-11. Calcium
-12. Phosphorus
-13. Alkaline Phosphatase (ALP)
-14. Alanine amino transferase (ALT or SGPT)
-15. Aspartate amino transferase (AST or SGOT)
-16. LDH
-17. Total Bilirubin
-18. GGT
-19. Iron
-20. TIBC
-21. Total Cholesterol
-22. Triglycerides
-23. LDL-C
-24. HDL-C
+1. Glucose: Blood sugar concentration; may be elevated due to diabetes type 1 and 2, insulin resistance, increased stress hormones, or an inability to inhibit the liver's production of glucose, or (if not fasting) ingestion of a high carbohydrate meal.
+2. BUN: Blood Urea Nitrogen. A marker of kidney function. May be elevated due to dehydration, poor kidney function, high protein intake, fatty liver, catabolic stress. May be decreased due to inadequate protein intake or protein malabsorption, liver disease, over hydration, and B6 deficiency.
+3. Creatinine: A byproduct of creatine breakdown. May be increased due  to kidney disfunction, dehydration, excessive muscle breakdown or increased muscle mass, hyperthyroidism, high meat intake, ketones. May be decreased due to low muscle mass, poor protein intake or absorption.
+4. Sodium: A positively charged electrolyte, necessary for muscle contraction, nutrient absorption, neurological functioning, pH balance. May be elevated due to dehydration, hyperaldosterone (reabsorption of sodium), excess sodium intake. May be decreased due to elevated serum glucose, low cortisol, glycosuria, ketonuria, hypothyroidism, fluid loss through sweat.
+5. Potassium: A positively charged electrolyte, necessary for muscle contraction, pH balance, nerve signal conduction, and action potentials. May be elevated due to renal failure, hypoaldosterone, acidosis, hemolysis, low insulin, hyperglycemia, exercise. May be decreased due to poor potassium intake, alkalosis, hyperaldosterone, excessive fluid loss, elevated insulin, low magnesium, elevated estrogen, increased catecholamines.
+6. Chloride: A negatively charged electrolyte; important for maintaining cellular equilibrium across cell membranes and for the production of stomach acid. May be elevated due to kidney dysfunction, diarrhea, dehydration, hyperparathyroidism, hyperventilation. May be decreased due to vomiting, respiratory acidosis (hypoventilation), metabolic alkalosis, hypoaldosterone.
+7. Carbon dioxide (CO2): Measures blood bicarbonate and is a surrogate marker for CO2 gas. May be elevated due to vomiting, metabolic alkalosis, respiratory acidosis (hypoventilation). May be decreased due to metabolic acidosis, respiratory alkalosis (hyperventilation).
+8. Uric Acid: End product of DNA purine base metabolism and excretion in the kidneys; may indicate oxidative stress and elevated levels are associated with cardiovascular disease and diabetes. May be elevated due to gout, kidney dysfunction, excess alcohol intake, starvation, extreme calorie restriction, liver dysfunction, hemolytic anemia, excess fructose consumption, fungal infection, ketogenic diet, supplemental niacin, high protein diet, prolonged fasting, supplemental vitamin B3, excess acidity. May be decreased due to nutrient deficiencies (molybdenum, zinc, iron), oxidative stress, low purine intake (vegetarian or vegan), excess alkalinity.
+9. Albumin: The most abundant plasma protein in serum, synthesized in the liver, binds to other compounds in the blood and contributes to the plasma osmotic gradient. May be elevated due to dehydration. May be decreased due to infection, inflammation, liver disease, kidney disease.
+10. Globulin: A plasma protein with different subtypes. May be elevated due to cancer, autoimmunity, elevated estrogen. May be decreased due to hemolytic anemia, nephrosis, compromised immune system.
+11. Calcium: Plays many roles in the body including teeth and bone health, clotting, neurotransmitter function, muscle contraction and enzyme activity. May be elevated due to alkalosis, kidney dysfunction, hyperparathyroidism, cancer, excess Vit D intake, adrenal insufficiency, excess Vit A intake. May be decreased due to poor intake or absorption, hypoparathyroidism, Vit D deficiency, magnesium deficiency.
+12. Phosphorus: A mineral involved in DNA and RNA synthesis, part of ATP, helps activate enzymes. May be elevated due to Vit D toxicity, hypoparathyroidism, kidney dysfunction. May be decreased due to poor absorption, Vit D deficiency, elevated insulin, high carb diets, diarrhea, poor protein digestion.
+13. Alkaline Phosphatase (ALP): An enzyme found in the liver, bone, kidneys, small intestine, and placenta. May be increased due to liver obstruction, cirrhosis, gastrointestinal issues, hyperphosphatemia, hyperparathyroidism. May be decreased due to nutrient deficiencies (zinc, magnesium, and/or Vit C).
+14. Alanine amino transferase (ALT or SGPT): An enzyme found in highest concentrations in the liver but also in smaller amounts in heart, muscle and kidney. May be elevated due to hepatocellular disease, biliary issues, pancreatitis.
+15. Aspartate amino transferase (AST or SGOT): An intracellular enzyme that is usually elevated due to active tissue and cellular destruction. May be elevated due to hepatitis, liver cirrhosis or alcoholism, hypothyroidism. May be decreased due to Vit B6 deficiency, elevated serum nitrogen.
+16. LDH: Lactate dehydrogenase; may be elevated due to liver disease, hypothyroidism, skeletal muscle damage, anemia (hemolytic, pernicious), fractures. May be decreased due to reactive hypoglycemia, insulin resistance, ketosis.
+17. Total Bilirubin: A byproduct of red blood cell breakdown and an important component of bile; functions as an antioxidant. May be elevated due to excess hemolysis, liver dysfunction, bile duct obstruction, Gilbert's Syndrome. May be decreased due to oxidative stress, zinc deficiency.
+18. GGT: An enzyme found primarily in the liver, kidney, and pancreas. May be elevated due to biliary tree dysfunction, alcoholism, pancreatitis, oxidative stress. May be decreased due to hypothyroidism, magnesium deficiency.
+19. Iron: Measures iron bound to transferrin and represents ~⅓ of the total iron binding capacity of transferrin. By itself, is a relatively poor marker of iron status. May be elevated due to hemochromatosis and other genetic conditions, hemolytic anemia, liver damage, Vit B6 deficiency. May be decreased due to poor iron intake, poor absorption, chronic blood loss, chronic disease or infection, progesterone birth control pills.
+20. TIBC: Measures the iron-binding capacity of transferrin. May be elevated due to iron deficiency, pregnancy, elevated estrogen. May be decreased due to anemia of chronic disease, chronic infection, liver dysfunction.
+21. Total Cholesterol: A waxy, fat like substance that travels throughout the body in carrier lipoproteins (HDL, LDL, and VLDL); a precursor to steroid hormones and bile salts. May be elevated due to poor thyroid function, insulin resistance, blood glucose dysregulation, magnesium deficiency, dehydration, kidney disease, familial hypercholesterolemia. May be decreased due to liver dysfunction, oxidative stress, inflammation, malabsorption, anemia.
+22. Triglycerides: Measures blood levels of the major storage form of fat in our bodies; also called triacylglycerols. Must be fasting to be accurate. Implicated in cardiovascular disease. May be elevated due to blood glucose dysregulation, diabetes, hypercaloric diets, poor thyroid function, kidney disease, alcohol consumption. May be decreased due to fat malabsorption, low carbohydrate diets, calorie restriction, potentially autoimmunity.
+23. LDL-C: The amount of cholesterol associated with Low Density Lipoprotein (LDL) particles in the blood. May be elevated due to insulin resistance, blood glucose dysregulation, poor thyroid function, kidney disease, familial hypercholesterolemia. May be low due to liver dysfunction, oxidative stress, malabsorption, anemia.
+24. HDL-C: The amount of cholesterol associated with High Density Lipoprotein (HDL) particles in the blood. May be elevated due to inflammation, oxidative stress, excessive exercise. Low HDL is associated with metabolic syndrome and may be decreased due to insulin resistance, sedentary lifestyle, poor diet quality.
 
 #### Additional Common and Recommended Biomarkers:
 
@@ -67,7 +67,7 @@ At its core, this project has two objectives: First, to be an awesome list about
 * DHEA-Sulfate
 * Estimated Glomerular Filtration Rate (eGFR)
 * Estradiol
-* Ferritin
+* Ferritin: The body’s iron binding protein. May be elevated due to hemochromatosis and other genetic conditions, inflammation, liver damage, hemolytic or sideroblastic anemia. May be decreased due to poor intake, poor absorption, chronic blood loss, chronic disease or infection, progesterone birth control pills.
 * Folate
 * Hemoglobin A1c
 * Homocysteine
