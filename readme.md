@@ -95,6 +95,12 @@ At its core, this project has two objectives: First, to be an awesome list about
 * WellnessFX
 * Life Extension
 
+## Books
+
+* [Your Blood Never Lies](https://www.amazon.com/dp/B00DSK9S20): Author James B. LaValle explains all of the commmon and recommended blood tests, how to read your results, and some of the most recommended interventions with medicine, lifestyle changes and supplements. 
+* [The Blood Code: Unlock the secrets of your metabolism](https://www.amazon.com/Blood-Code-Unlock-secrets-metabolism-ebook/dp/B00JFK9M14/): Doctor Richard Maurer offers a guide on how to order, read and act upon on your own blood test results and skin-fold caliper measurements. By understanding your metabolic blueprin, you can take the best steps through a tailored diet and exercise to improve your health and wellness. 
+* [Blood Chemistry and CBC Analysis: Clinical Laboratory Testing from a Functional Perspective](https://www.amazon.com/Blood-Chemistry-CBC-Analysis-Perspective/dp/0976136716/): This manual by Dr Dicken Weatherby and Dr Scott Ferguson presents a diagnostic system of blood chemistry and CBC analysis that focuses on physiological function as a marker of health. Covers of 52 blood tests with optimal and functional values.
+
 ## Blood Tracking Technologies and Tools
 
 * **TODO**
