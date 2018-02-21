@@ -11,7 +11,8 @@ At its core, this project has two objectives: First, to be an awesome list about
 ## Common Blood Test Panels 
 
 * **Complete Blood Count (CBC) with Differential** - Measures the numbers and percentages of various blood cell types in a blood sample. CBC is one of the most common tests used to assess and monitor overall health status.
-* **Basic Metabolic Panel (BMP)** - Tests electrolyte levels, kidney function, and blood sugar levels. One of the most common tests used by health care providers. Consists of seven or eight biochemical tests. Used to assess and monitor overall health status and response to medication and medical therapies. 
+* **Lipids Panel** - Tests the fatty substances found in blood, High level of triglycerides and cholesterol are associated with increased risk of heart-related problems.  
+* **Basic Metabolic Panel (BMP)** - Tests electrolyte levels, kidney function, and blood sugar levels. One of the most common tests used by health care providers. Consists of seven or eight biochemical tests. Used to assess and monitor overall health status, response to medication and medical therapies, and indicators of metabolic functioning. 
 * **Comprehensive Metabolic Panel (CMP)** - Tests kidney function, liver function, diabetic and parathyroid status, and electrolyte and fluid balance. The CMP includes a panel of 14 blood tests and is an expanded version of the basic metabolic panel (BMP), which includes liver tests. Also know as Chemical Screen or Complete Metabolic Panel 14 (CMP 14). 
 
 ## Specific Biomarkers and Blood Tests
@@ -33,7 +34,16 @@ At its core, this project has two objectives: First, to be an awesome list about
 13. **Absolute Eosinophils**: Immune cells that become active in late stage inflammation. May be elevated due to allergies, asthma, parasitic infection, hypoadrenalism, skin diseases such as eczema, ulcerative colitis, Crohn’s, aspirin sensitivity. May be decreased due to elevated cortisol.
 14. **Absolute Basophils**: White blood cells associated with inflammation and hypersensitivities. May be elevated due to inflammation, allergies, hemolytic anemia, hypothyroidism.
 
+#### Lipids Panel Biomarkers: 
+
+1. Total Cholesterol: A waxy, fat like substance that travels throughout the body in carrier lipoproteins (HDL, LDL, and VLDL); a precursor to steroid hormones and bile salts. May be elevated due to poor thyroid function, insulin resistance, blood glucose dysregulation, magnesium deficiency, dehydration, kidney disease, familial hypercholesterolemia. May be decreased due to liver dysfunction, oxidative stress, inflammation, malabsorption, anemia.
+2. Triglycerides: Measures blood levels of the major storage form of fat in our bodies; also called triacylglycerols. Must be fasting to be accurate. Implicated in cardiovascular disease. May be elevated due to blood glucose dysregulation, diabetes, hypercaloric diets, poor thyroid function, kidney disease, alcohol consumption. May be decreased due to fat malabsorption, low carbohydrate diets, calorie restriction, potentially autoimmunity.
+3. LDL-C: The amount of cholesterol associated with Low Density Lipoprotein (LDL) particles in the blood. May be elevated due to insulin resistance, blood glucose dysregulation, poor thyroid function, kidney disease, familial hypercholesterolemia. May be low due to liver dysfunction, oxidative stress, malabsorption, anemia.
+4. HDL-C: The amount of cholesterol associated with High Density Lipoprotein (HDL) particles in the blood. May be elevated due to inflammation, oxidative stress, excessive exercise. Low HDL is associated with metabolic syndrome and may be decreased due to insulin resistance, sedentary lifestyle, poor diet quality.
+
 #### Comprehensive Metabolic Panel (CMP) Biomarkers: 
+
+(All includes Lipids Panel: Total Cholesterol, Triglycerides, LDL-C, and HDL-C)
 
 1. Glucose: Blood sugar concentration; may be elevated due to diabetes type 1 and 2, insulin resistance, increased stress hormones, or an inability to inhibit the liver's production of glucose, or (if not fasting) ingestion of a high carbohydrate meal.
 2. BUN: Blood Urea Nitrogen. A marker of kidney function. May be elevated due to dehydration, poor kidney function, high protein intake, fatty liver, catabolic stress. May be decreased due to inadequate protein intake or protein malabsorption, liver disease, over hydration, and B6 deficiency.
@@ -55,10 +65,6 @@ At its core, this project has two objectives: First, to be an awesome list about
 18. GGT: An enzyme found primarily in the liver, kidney, and pancreas. May be elevated due to biliary tree dysfunction, alcoholism, pancreatitis, oxidative stress. May be decreased due to hypothyroidism, magnesium deficiency.
 19. Iron: Measures iron bound to transferrin and represents ~⅓ of the total iron binding capacity of transferrin. By itself, is a relatively poor marker of iron status. May be elevated due to hemochromatosis and other genetic conditions, hemolytic anemia, liver damage, Vit B6 deficiency. May be decreased due to poor iron intake, poor absorption, chronic blood loss, chronic disease or infection, progesterone birth control pills.
 20. TIBC: Measures the iron-binding capacity of transferrin. May be elevated due to iron deficiency, pregnancy, elevated estrogen. May be decreased due to anemia of chronic disease, chronic infection, liver dysfunction.
-21. Total Cholesterol: A waxy, fat like substance that travels throughout the body in carrier lipoproteins (HDL, LDL, and VLDL); a precursor to steroid hormones and bile salts. May be elevated due to poor thyroid function, insulin resistance, blood glucose dysregulation, magnesium deficiency, dehydration, kidney disease, familial hypercholesterolemia. May be decreased due to liver dysfunction, oxidative stress, inflammation, malabsorption, anemia.
-22. Triglycerides: Measures blood levels of the major storage form of fat in our bodies; also called triacylglycerols. Must be fasting to be accurate. Implicated in cardiovascular disease. May be elevated due to blood glucose dysregulation, diabetes, hypercaloric diets, poor thyroid function, kidney disease, alcohol consumption. May be decreased due to fat malabsorption, low carbohydrate diets, calorie restriction, potentially autoimmunity.
-23. LDL-C: The amount of cholesterol associated with Low Density Lipoprotein (LDL) particles in the blood. May be elevated due to insulin resistance, blood glucose dysregulation, poor thyroid function, kidney disease, familial hypercholesterolemia. May be low due to liver dysfunction, oxidative stress, malabsorption, anemia.
-24. HDL-C: The amount of cholesterol associated with High Density Lipoprotein (HDL) particles in the blood. May be elevated due to inflammation, oxidative stress, excessive exercise. Low HDL is associated with metabolic syndrome and may be decreased due to insulin resistance, sedentary lifestyle, poor diet quality.
 
 #### Additional Common and Recommended Biomarkers:
 
