@@ -89,6 +89,7 @@ At its core, this project has two objectives: First, to be an awesome list about
 * Antinuclear antibody (ANA) - General test for autoimmune disease
 * Aluminum (Blood) - This blood test measures Aluminum levels. There are concerns that aluminum exposure from either diet or the environment may be related to Alzheimer's disease.
 * Arsenic (Blood) - This blood test is used to measure Arsenic levels. Arsenic toxicity affects the blood, kidneys, skin, digestive tract and central nervous system. 
+* [Sexually transmitted diseases (STDs)](https://en.wikipedia.org/wiki/Sexually_transmitted_infection) - No single test exists for all infectious agents. Screening of sexually transmitted infections (STIs) typically includes syphilis, trichomonas, gonorrhea, chlamydia, herpes, hepatitis and HIV. 
 ## Blood Testing Companies
 
 * Inside Tracker
