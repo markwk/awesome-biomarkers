@@ -2,7 +2,13 @@
 
 Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health! 
 
-At its core, this project has two objectives: First, to be an awesome list about biomarkers, blood testing, blood tracking and quantified metrics about health and welness. That way you can learn all the basic info about blood tests and biomarker track. Second, to be an open source and community database on and about biomarkers. That way we can build great technologies for indiviudals, companies and communities hoping to use biomarkers and health metrics to power their solutions.  
+This project has a couple objectives: 
+
+- First, to be an **awesome list about biomarkers**, blood testing, blood tracking and quantified metrics about health and wellness. That way you can learn all the basic info about blood tests and biomarker track. 
+- Second, to provide a **biomarker tracker** so everyone has a user friendly tools for tracking and monitoring your blood biomarkers over time. Right now our recommended solution is a Google Sheets biomarker tracker. 
+- Third, to be an **open source and community database on biomarkers**, blood test ranges and various research about these numbers. That way we can get reliable numbers and build more advanced technologies for indiviudals, companies and communities hoping to use biomarkers and health metrics to power the revolution in data-driven health.  
+
+Feel free to use, comment, share, contribute. This is very much a collaborative effort at open source citizen science! 
 
 # Awesome List on Biomarkers
 
@@ -102,9 +108,35 @@ At its core, this project has two objectives: First, to be an awesome list about
 * [The Blood Code: Unlock the secrets of your metabolism](https://www.amazon.com/Blood-Code-Unlock-secrets-metabolism-ebook/dp/B00JFK9M14/): Doctor Richard Maurer offers a guide on how to order, read and act upon on your own blood test results and skin-fold caliper measurements. By understanding your metabolic blueprin, you can take the best steps through a tailored diet and exercise to improve your health and wellness. 
 * [Blood Chemistry and CBC Analysis: Clinical Laboratory Testing from a Functional Perspective](https://www.amazon.com/Blood-Chemistry-CBC-Analysis-Perspective/dp/0976136716/): This manual by Dr Dicken Weatherby and Dr Scott Ferguson presents a diagnostic system of blood chemistry and CBC analysis that focuses on physiological function as a marker of health. Covers of 52 blood tests with optimal and functional values.
 
-## Blood Tracking Technologies and Tools
 
-* **TODO**
+
+# Biomarker Tracker for Lab and Blood Tests 
+
+![](https://raw.githubusercontent.com/markwk/awesome-biomarkers/master/images/biomarker-tracker-for-google-sheets-cover.jpg)
+
+[Get Biomarker Tracker for Google Sheets Now](https://docs.google.com/spreadsheets/d/1gpESrmjD6TpOIlYB0-tu9uZk2fRaHkgFAsMPK9mzMKQ/edit?usp=sharing)
+
+**Biomarker Tracker** is simple tool for logging and tracking your blood and other biomarker data. Built and shared as a Google Sheets template, it provides a way to record your test results and see if they are in or out of the target ranges.  
+
+The tracker currently provides several panels:
+
+- Biomarker Tracker - Highlights key health and wellness biomarkers and a target goal
+- CBC
+- Chemistry
+- Lipids
+- Advanced - an example sheet for custom logging of additional biomarkers
+
+Ranges can be adjusted according to your lab, doctor or own targets. Based on targets, conditional formatted will highlight results outside of the range. 
+
+### How to Use the Blood Tests Tracker? 
+
+- If you are not already signed in, be sure to log in to a Google account. 
+- First, navigate to [Biomarker Tracker for Google Sheet Template](https://docs.google.com/spreadsheets/d/1gpESrmjD6TpOIlYB0-tu9uZk2fRaHkgFAsMPK9mzMKQ/edit?usp=sharing). 
+- Second, under the menu tab for "File," scroll down and select "Make a Copy." This will duplicate the sheet. 
+- After that, go to your new tracking template and start adding your blood test results. 
+- *NOTE*: You may need to adjust the units, reference ranges and targets according to your lab, country and/or health situation. 
+
+For problems, ideas, feedback and changes, please post a comment in the [issue queue](https://github.com/markwk/awesome-biomarkers/issues). Be sure to include a link to your version of the tracking template. 
 
 # BiomarkerDB: An Open Source Database on Biomarkers and Health Metrics
 
