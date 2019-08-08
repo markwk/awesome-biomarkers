@@ -140,9 +140,13 @@ For problems, ideas, feedback and changes, please post a comment in the [issue q
 
 # BiomarkerDB: An Open Source Database on Biomarkers and Health Metrics
 
-While there are a number of sources on blood testing, biomarkers and medical testing, they are often difficult to navigate and proprietary. This database is intended as an alternative source about the most common, researched and used biomarkers for health and wellness. It is open source and community built. 
+While there are a number of sources on blood testing, biomarkers and medical testing, they are often difficult to navigate, non-digital and/or proprietary. In order to provide access to latest info on blood testing and biomarker ranges and research, we are building an open source database and directory on biomarkers: **[Biomarker DB](https://docs.google.com/spreadsheets/d/1WVhjSNUQh4xuc41cLuChE-DthZzEemHxeHghbCdQ2sA/edit?usp=sharing)**. 
 
-The database includes 300+ biomarkers at present. 
+This database is intended as a reliable source about the most common, researched and used biomarkers for health and wellness. It is open source and community built.  
+
+**Update 8/8/19**: In order to speed development and community involvement, the latest version of the database and directory is being made available in Google Sheets [here](https://docs.google.com/spreadsheets/d/1WVhjSNUQh4xuc41cLuChE-DthZzEemHxeHghbCdQ2sA/edit?usp=sharing). Feel free to add and contribute. 
+
+We intend to then transfer this into an alternative format that get be managed in code / git at a later time. 
 
 # License
 
