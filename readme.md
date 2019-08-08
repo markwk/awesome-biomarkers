@@ -2,6 +2,31 @@
 
 Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health! 
 
+##### Contents:
+
+- [Objectives](#objectives)
+
+- [Awesome List on Biomarkers](#awesome-list-on-biomarkers)
+  - [Common Blood Test Panels](#common-blood-test-panels)
+  - [Specific Biomarkers and Blood Tests](#specific-biomarkers-and-blood-tests)
+      - [Complete Blood Count Biomarkers](#complete-blood-count-biomarkers)
+      - [Lipids Panel Biomarkers](#lipids-panel-biomarkers)
+      - [Comprehensive Metabolic Panel Biomarkers](#comprehensive-metabolic-panel-biomarkers)
+      - [Additional Common and Recommended Biomarkers](#additional-common-and-recommended-biomarkers)
+      - [Misc Blood Tests](#misc-blood-tests)
+  - [Blood Testing Companies](#blood-testing-companies)
+  - [Books](#books)
+- [Biomarker Tracker](#biomarker-tracker)
+    - [Tracking Tool for Lab and Blood Test Results](#tracking-tool-for-lab-and-blood-test-results)
+    - [How to Use the Blood Tests Tracker?](#how-to-use-the-blood-tests-tracker)
+- [BiomarkerDB](#biomarkerdb)
+    - [An Open Source Database on Biomarkers and Health Metrics](#an-open-source-database-on-biomarkers-and-health-metrics)
+- [License](#license)
+
+
+
+### Objectives
+
 This project has a couple objectives: 
 
 - First, to be an **awesome list about biomarkers**, blood testing, blood tracking and quantified metrics about health and wellness. That way you can learn all the basic info about blood tests and biomarker track. 
@@ -14,7 +39,7 @@ Feel free to use, comment, share, contribute. This is very much a collaborative 
 
 > A curated list of biomarkers, blood tests, health indicators, blood testing companies and health tracking and analytics technologies, applications, tools and resources. 
 
-## Common Blood Test Panels 
+## Common Blood Test Panels
 
 * **[Complete Blood Count (CBC) with Differential](https://en.wikipedia.org/wiki/Complete_blood_count)** - Measures the numbers and percentages of various blood cell types in a blood sample. CBC is one of the most common tests used to assess and monitor overall health status.
 * **[Lipids Panel](https://en.wikipedia.org/wiki/Lipid_profile)** - Tests the fatty substances found in blood, High level of triglycerides and cholesterol are associated with increased risk of heart-related problems.  
@@ -23,7 +48,7 @@ Feel free to use, comment, share, contribute. This is very much a collaborative 
 
 ## Specific Biomarkers and Blood Tests
 
-#### Complete Blood Count (CBC) Biomarkers:
+#### Complete Blood Count Biomarkers
 
 1. **[RBC](https://en.wikipedia.org/wiki/Red_blood_cell)**: Red blood cell count (corpuscles). Red blood cells are made in the bone marrow and broken down in the spleen and liver. May be elevated due to dehydration, high testosterone. May be low due to nutrient deficiencies (iron, Vit B6, Vit B12, folate), kidney dysfunction, chronic inflammation, anemia, blood loss.
 2. **[Hemoglobin](https://en.wikipedia.org/wiki/Hemoglobin)**: Delivers oxygen throughout the blood. May be elevated due to dehydration, elevated testosterone, poor oxygen deliverability, thiamin deficiency, insulin resistance. May be deceased due to anemia, liver disease, hypothyroidism, exercise, arginine deficiency, protein deficiency, inflammation nutrient deficiencies (Vit E, magnesium, zinc, copper, selenium, Vit B6, Vit A).
@@ -40,14 +65,14 @@ Feel free to use, comment, share, contribute. This is very much a collaborative 
 13. **[Absolute Eosinophils](https://en.wikipedia.org/wiki/Eosinophil)**: Immune cells that become active in late stage inflammation. May be elevated due to allergies, asthma, parasitic infection, hypoadrenalism, skin diseases such as eczema, ulcerative colitis, Crohn’s, aspirin sensitivity. May be decreased due to elevated cortisol.
 14. **[Absolute Basophils](https://en.wikipedia.org/wiki/Basophil)**: White blood cells associated with inflammation and hypersensitivities. May be elevated due to inflammation, allergies, hemolytic anemia, hypothyroidism.
 
-#### Lipids Panel Biomarkers: 
+#### Lipids Panel Biomarkers
 
 1. [Total Cholesterol](https://en.wikipedia.org/wiki/Cholesterol): A waxy, fat like substance that travels throughout the body in carrier lipoproteins (HDL, LDL, and VLDL); a precursor to steroid hormones and bile salts. May be elevated due to poor thyroid function, insulin resistance, blood glucose dysregulation, magnesium deficiency, dehydration, kidney disease, familial hypercholesterolemia. May be decreased due to liver dysfunction, oxidative stress, inflammation, malabsorption, anemia.
 2. [Triglycerides](https://en.wikipedia.org/wiki/Triglycerides): Measures blood levels of the major storage form of fat in our bodies; also called triacylglycerols. Must be fasting to be accurate. Implicated in cardiovascular disease. May be elevated due to blood glucose dysregulation, diabetes, hypercaloric diets, poor thyroid function, kidney disease, alcohol consumption. May be decreased due to fat malabsorption, low carbohydrate diets, calorie restriction, potentially autoimmunity.
 3. [LDL-C](https://en.wikipedia.org/wiki/Low-density_lipoprotein): The amount of cholesterol associated with Low Density Lipoprotein (LDL) particles in the blood. May be elevated due to insulin resistance, blood glucose dysregulation, poor thyroid function, kidney disease, familial hypercholesterolemia. May be low due to liver dysfunction, oxidative stress, malabsorption, anemia.
 4. [HDL-C](https://en.wikipedia.org/wiki/High-density_lipoprotein): The amount of cholesterol associated with High Density Lipoprotein (HDL) particles in the blood. May be elevated due to inflammation, oxidative stress, excessive exercise. Low HDL is associated with metabolic syndrome and may be decreased due to insulin resistance, sedentary lifestyle, poor diet quality.
 
-#### Comprehensive Metabolic Panel (CMP) Biomarkers: 
+#### Comprehensive Metabolic Panel Biomarkers
 
 (All includes Lipids Panel: Total Cholesterol, Triglycerides, LDL-C, and HDL-C)
 
@@ -72,7 +97,7 @@ Feel free to use, comment, share, contribute. This is very much a collaborative 
 19. Iron: Measures iron bound to transferrin and represents ~⅓ of the total iron binding capacity of transferrin. By itself, is a relatively poor marker of iron status. May be elevated due to hemochromatosis and other genetic conditions, hemolytic anemia, liver damage, Vit B6 deficiency. May be decreased due to poor iron intake, poor absorption, chronic blood loss, chronic disease or infection, progesterone birth control pills.
 20. TIBC: Measures the iron-binding capacity of transferrin. May be elevated due to iron deficiency, pregnancy, elevated estrogen. May be decreased due to anemia of chronic disease, chronic infection, liver dysfunction.
 
-#### Additional Common and Recommended Biomarkers:
+#### Additional Common and Recommended Biomarkers
 
 * C-Reactive Protein
 * Cortisol
@@ -110,7 +135,9 @@ Feel free to use, comment, share, contribute. This is very much a collaborative 
 
 
 
-# Biomarker Tracker for Lab and Blood Tests 
+# Biomarker Tracker
+
+### Tracking Tool for Lab and Blood Test Results
 
 ![](https://raw.githubusercontent.com/markwk/awesome-biomarkers/master/images/biomarker-tracker-for-google-sheets-cover.jpg)
 
@@ -128,7 +155,7 @@ The tracker currently provides several panels:
 
 Ranges can be adjusted according to your lab, doctor or own targets. Based on targets, conditional formatted will highlight results outside of the range. 
 
-### How to Use the Blood Tests Tracker? 
+### How to Use the Blood Tests Tracker?
 
 - If you are not already signed in, be sure to log in to a Google account. 
 - First, navigate to [Biomarker Tracker for Google Sheet Template](https://docs.google.com/spreadsheets/d/1gpESrmjD6TpOIlYB0-tu9uZk2fRaHkgFAsMPK9mzMKQ/edit?usp=sharing). 
@@ -138,7 +165,9 @@ Ranges can be adjusted according to your lab, doctor or own targets. Based on ta
 
 For problems, ideas, feedback and changes, please post a comment in the [issue queue](https://github.com/markwk/awesome-biomarkers/issues). Be sure to include a link to your version of the tracking template. 
 
-# BiomarkerDB: An Open Source Database on Biomarkers and Health Metrics
+# BiomarkerDB
+
+### An Open Source Database on Biomarkers and Health Metrics
 
 While there are a number of sources on blood testing, biomarkers and medical testing, they are often difficult to navigate, non-digital and/or proprietary. In order to provide access to latest info on blood testing and biomarker ranges and research, we are building an open source database and directory on biomarkers: **[Biomarker DB](https://docs.google.com/spreadsheets/d/1WVhjSNUQh4xuc41cLuChE-DthZzEemHxeHghbCdQ2sA/edit?usp=sharing)**. 
 
