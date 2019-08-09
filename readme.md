@@ -41,10 +41,10 @@ Feel free to use, comment, share, contribute. This is very much a collaborative 
 
 ## Common Blood Test Panels
 
-* **[Complete Blood Count (CBC) with Differential](https://en.wikipedia.org/wiki/Complete_blood_count)** - Measures the numbers and percentages of various blood cell types in a blood sample. CBC is one of the most common tests used to assess and monitor overall health status.
-* **[Lipids Panel](https://en.wikipedia.org/wiki/Lipid_profile)** - Tests the fatty substances found in blood, High level of triglycerides and cholesterol are associated with increased risk of heart-related problems.  
-* **[Basic Metabolic Panel (BMP)](https://en.wikipedia.org/wiki/Basic_metabolic_panel)** - Tests electrolyte levels, kidney function, and blood sugar levels. One of the most common tests used by health care providers. Consists of seven or eight biochemical tests. Used to assess and monitor overall health status, response to medication and medical therapies, and indicators of metabolic functioning. 
-* **[Comprehensive Metabolic Panel (CMP)](https://en.wikipedia.org/wiki/Comprehensive_metabolic_panel)** - Tests kidney function, liver function, diabetic and parathyroid status, and electrolyte and fluid balance. The CMP includes a panel of 14 blood tests and is an expanded version of the basic metabolic panel (BMP), which includes liver tests. Also know as Chemical Screen or Complete Metabolic Panel 14 (CMP 14). 
+- **[Complete Blood Count (CBC) with Differential](https://en.wikipedia.org/wiki/Complete_blood_count)** - Measures the numbers and percentages of various blood cell types in a blood sample. CBC is one of the most common tests used to assess and monitor overall health status.
+- **[Lipids Panel](https://en.wikipedia.org/wiki/Lipid_profile)** - Tests the fatty substances found in blood, High level of triglycerides and cholesterol are associated with increased risk of heart-related problems.  
+- **[Basic Metabolic Panel (BMP)](https://en.wikipedia.org/wiki/Basic_metabolic_panel)** - Tests electrolyte levels, kidney function, and blood sugar levels. One of the most common tests used by health care providers. Consists of seven or eight biochemical tests. Used to assess and monitor overall health status, response to medication and medical therapies, and indicators of metabolic functioning. 
+- **[Comprehensive Metabolic Panel (CMP)](https://en.wikipedia.org/wiki/Comprehensive_metabolic_panel)** - Tests kidney function, liver function, diabetic and parathyroid status, and electrolyte and fluid balance. The CMP includes a panel of 14 blood tests and is an expanded version of the basic metabolic panel (BMP), which includes liver tests. Also know as Chemical Screen or Complete Metabolic Panel 14 (CMP 14). 
 
 ## Specific Biomarkers and Blood Tests
 
@@ -99,41 +99,40 @@ Feel free to use, comment, share, contribute. This is very much a collaborative 
 
 #### Additional Common and Recommended Biomarkers
 
-* C-Reactive Protein
-* Cortisol
-* DHEA-Sulfate
-* Estimated Glomerular Filtration Rate (eGFR)
-* Estradiol
-* Ferritin: The body’s iron binding protein. May be elevated due to hemochromatosis and other genetic conditions, inflammation, liver damage, hemolytic or sideroblastic anemia. May be decreased due to poor intake, poor absorption, chronic blood loss, chronic disease or infection, progesterone birth control pills.
-* Folate
-* Hemoglobin A1c
-* Homocysteine
-* Progesterone
-* Prostate Specific Ag (PSA)
-* Testosterone
-* Thyroid-Stimulating Hormone
-* Vitamin D, 25-Hydroxy
+- C-Reactive Protein
+- Cortisol
+- DHEA-Sulfate
+- Estimated Glomerular Filtration Rate (eGFR)
+- Estradiol
+- Ferritin: The body’s iron binding protein. May be elevated due to hemochromatosis and other genetic conditions, inflammation, liver damage, hemolytic or sideroblastic anemia. May be decreased due to poor intake, poor absorption, chronic blood loss, chronic disease or infection, progesterone birth control pills.
+- Folate
+- Hemoglobin A1c
+- Homocysteine
+- Progesterone
+- Prostate Specific Ag (PSA)
+- Testosterone
+- Thyroid-Stimulating Hormone
+- Vitamin D, 25-Hydroxy
 
 #### Misc Blood Tests
 
-* ABO Grouping (Blood Typing) - Test used for classifying blood types.
-* Antinuclear antibody (ANA) - General test for autoimmune disease
-* Aluminum (Blood) - This blood test measures Aluminum levels. There are concerns that aluminum exposure from either diet or the environment may be related to Alzheimer's disease.
-* Arsenic (Blood) - This blood test is used to measure Arsenic levels. Arsenic toxicity affects the blood, kidneys, skin, digestive tract and central nervous system. 
-* [Sexually transmitted diseases (STDs)](https://en.wikipedia.org/wiki/Sexually_transmitted_infection) - No single test exists for all infectious agents. Screening of sexually transmitted infections (STIs) typically includes syphilis, trichomonas, gonorrhea, chlamydia, herpes, hepatitis and HIV. 
+- ABO Grouping (Blood Typing) - Test used for classifying blood types.
+- Antinuclear antibody (ANA) - General test for autoimmune disease
+- Aluminum (Blood) - This blood test measures Aluminum levels. There are concerns that aluminum exposure from either diet or the environment may be related to Alzheimer's disease.
+- Arsenic (Blood) - This blood test is used to measure Arsenic levels. Arsenic toxicity affects the blood, kidneys, skin, digestive tract and central nervous system. 
+- [Sexually transmitted diseases (STDs)](https://en.wikipedia.org/wiki/Sexually_transmitted_infection) - No single test exists for all infectious agents. Screening of sexually transmitted infections (STIs) typically includes syphilis, trichomonas, gonorrhea, chlamydia, herpes, hepatitis and HIV. 
+
 ## Blood Testing Companies
 
-* Inside Tracker
-* WellnessFX
-* Life Extension
+- Inside Tracker
+- WellnessFX
+- Life Extension
 
 ## Books
 
-* [Your Blood Never Lies](https://www.amazon.com/dp/B00DSK9S20): Author James B. LaValle explains all of the commmon and recommended blood tests, how to read your results, and some of the most recommended interventions with medicine, lifestyle changes and supplements. 
-* [The Blood Code: Unlock the secrets of your metabolism](https://www.amazon.com/Blood-Code-Unlock-secrets-metabolism-ebook/dp/B00JFK9M14/): Doctor Richard Maurer offers a guide on how to order, read and act upon on your own blood test results and skin-fold caliper measurements. By understanding your metabolic blueprin, you can take the best steps through a tailored diet and exercise to improve your health and wellness. 
-* [Blood Chemistry and CBC Analysis: Clinical Laboratory Testing from a Functional Perspective](https://www.amazon.com/Blood-Chemistry-CBC-Analysis-Perspective/dp/0976136716/): This manual by Dr Dicken Weatherby and Dr Scott Ferguson presents a diagnostic system of blood chemistry and CBC analysis that focuses on physiological function as a marker of health. Covers of 52 blood tests with optimal and functional values.
-
-
+- [Your Blood Never Lies](https://www.amazon.com/dp/B00DSK9S20): Author James B. LaValle explains all of the commmon and recommended blood tests, how to read your results, and some of the most recommended interventions with medicine, lifestyle changes and supplements. 
+- [The Blood Code: Unlock the secrets of your metabolism](https://www.amazon.com/Blood-Code-Unlock-secrets-metabolism-ebook/dp/B00JFK9M14/): Doctor Richard Maurer offers a guide on how to order, read and act upon on your own blood test results and skin-fold caliper measurements. By understanding your metabolic blueprin, you can take the best steps through a tailored diet and exercise to improve your health and wellness. 
+- [Blood Chemistry and CBC Analysis: Clinical Laboratory Testing from a Functional Perspective](https://www.amazon.com/Blood-Chemistry-CBC-Analysis-Perspective/dp/0976136716/): This manual by Dr Dicken Weatherby and Dr Scott Ferguson presents a diagnostic system of blood chemistry and CBC analysis that focuses on physiological function as a marker of health. Covers of 52 blood tests with optimal and functional values.
 
 # Biomarker Tracker
 
