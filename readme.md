@@ -31,7 +31,7 @@ This project has a couple objectives:
 
 - First, to be an **awesome list about biomarkers**, blood testing, blood tracking and quantified metrics about health and wellness. That way you can learn all the basic info about blood tests and biomarker track. 
 - Second, to provide a **biomarker tracker** so everyone has a user friendly tools for tracking and monitoring your blood biomarkers over time. Right now our recommended solution is a Google Sheets biomarker tracker. 
-- Third, to be an **open source and community database on biomarkers**, blood test ranges and various research about these numbers. That way we can get reliable numbers and build more advanced technologies for indiviudals, companies and communities hoping to use biomarkers and health metrics to power the revolution in data-driven health.  
+- Third, to be an **open source and community database on biomarkers**, blood test ranges and various research about these numbers. That way we can get reliable numbers and build more advanced technologies for individuals, companies and communities hoping to use biomarkers and health metrics to power the revolution in data-driven health.  
 
 Feel free to use, comment, share, contribute. This is very much a collaborative effort at open source citizen science! 
 
