@@ -1,6 +1,6 @@
 # Awesome Biomarkers, Blood Tests and Health Indicators[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health! 
+Learn more about blood testing, biomarkers, tech, and services to help quantify (and improve) your health! 
 
 ## Contents
 
@@ -22,7 +22,7 @@ Learn more about blood testing, biomarkers and tech and services to help quantif
 
 ## Objectives
 
-This project has a couple objectives: 
+This project has a couple of objectives: 
 
 - First, to be an **awesome list about biomarkers**, blood testing, blood tracking and quantified metrics about health and wellness. That way you can learn all the basic info about blood tests and biomarker track. 
 - Second, to provide a **biomarker tracker** so everyone has a user friendly tools for tracking and monitoring your blood biomarkers over time. Right now our recommended solution is a Google Sheets biomarker tracker. 
